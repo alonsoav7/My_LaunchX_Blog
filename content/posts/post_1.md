@@ -21,4 +21,4 @@ del Backend y al término de la misión porder comunicar el Back con el Front y 
 
 Gracias por llegar hasta aquí, nos vemos en el siguiente post. 
 
-Bye.
+¡Hasta Pronto!.
