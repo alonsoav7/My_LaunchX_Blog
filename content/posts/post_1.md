@@ -1,12 +1,12 @@
 ---
-title: "Título de tu blog post"
-date: 2022-03-01
-description: 'Análisis de LaunchX'
+title: "Mi experiencia en LaunchX"
+date: 2022-04-11
+description: 'Reseña de Alonso sobre el programa de LaucnX'
 ---
 
 ¡Hola de nuevo!
 
-Quisiera compartirles un poco de mi experiencia en LaunchX, durante las 8 semanas que he estado en el programa me ha parecido muy bueno y prático, he aprendido muchas
+Quiero compartirles un poco de mi experiencia en LaunchX, durante las 8 semanas que he estado en el programa me ha parecido muy bueno y prático, he aprendido muchas
 cosas, por ejemplo, a usar por primera vez notebooks en Python y la sintáxis del lenguaje, durante la misión OnBoarding repasé conceptos básicos de programación y me 
 ayudó a mejorar un poco mi lógica.
 
